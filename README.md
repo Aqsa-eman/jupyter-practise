@@ -1,2 +1,2 @@
-# jupyter-practise
- we use to jupyter for revision
+# jupyter-files-new
+ for jupyter vfiles
